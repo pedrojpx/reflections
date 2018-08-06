@@ -1,0 +1,14 @@
+COMO A VISUALIZAAÇÃO DE UM DIFF ENTRE DUAS VERSÕES DE UM ARQUIVO AJUDA VOCÊ A VER O BUG QUE FOI INTRODUZIDO?
+Permite ver o que mudou e, portanto, o que foi o responsável por introduzir o bug
+
+COMO TER FÁCIL ACESSO A TODO O HISTÓRICO DE UM ARQUIVO PODE TORNÁ-LO UM PROGRAMADOR MAIS EFEICIENTE NO LONG OPRAZO?
+Poder "voltar no tempo" e experimentar com o que o arquivo era. Poder testar e modificar o arquivo à vontade, sem ter medo do que as mudanças implementadas podem acarretas (pois vc sempre pode voltar no tempo)
+
+QUAIS SÃO OS PROS E CONTRAS DE ESCOLHER MANUALMENTE QANDO CRIAR UM COMMIT, COMO OCORRE NO git, VERSOS O SALVAMENTO AUTOMÁTICO?
+vc mesmo pode determinar os critérios para definir quando haverá o salvamento baseado em alterações lógicas feitas no projeto
+
+PORQUE ALGUNS SISTEMAS DE CONTROLEDE VERSÃO PERMITEM SLVAR VARIOS ARQUIVOS EM UM COMMIT, QUANTANTO OUTROS TRATAM CADA UM SEPARDADAMENTE?
+porque par alaguns fins, é melhor fazer de um jeito que do outro.
+
+COMO USAR OS COMANDOS GIT LOG E GIT DIFF PARA VISUALIZAR O HISTÓRICO DOS ARQUIVOS?
+git diff primeiroid segundoid
