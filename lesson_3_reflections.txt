@@ -1,1 +1,2 @@
-WHEN WOUDL
+QUANDO GOSTARIA DE USAR UM REPOSÍRIO REMOTO EM VEZ DE MANTER O TRABLAHO LCOAL?
+quando se está trabalhando em grupo, ou para compartilhar o que voce fez
