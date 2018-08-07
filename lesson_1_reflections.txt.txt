@@ -12,3 +12,6 @@ porque par alaguns fins, é melhor fazer de um jeito que do outro.
 
 COMO USAR OS COMANDOS GIT LOG E GIT DIFF PARA VISUALIZAR O HISTÓRICO DOS ARQUIVOS?
 git diff primeiroid segundoid
+
+DE QUE MODO O CONTROLE DE VERSÃO PODE DAR A VOCE MAIS SEGURANÇA PARA FAZER AS ALTERAÇÃO QUE PODEM DANIFICAR ALGO?
+voce pode voltar atrás se der merda

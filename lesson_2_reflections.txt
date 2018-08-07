@@ -1,2 +1,18 @@
 EM QUE SE DIFERE A ÁREA DE PREPARAÇÃO DO DIRETÓRIO DE TRABLAHO E DO REPOSITÓRIO? QUAL VALOR VOCÊ ACHA QUE ELA OFERECE?
-????
+Permite que voce selecione que partes do código realmente quer enviar para o Commit
+
+COMO VOCÊ PODE SUAR A ÁREA DE PREPARAÇÃO PARA GARANTIR QUE TENHA UM COMMIT POR ALTERAÇÃO LÓGICA?
+Voce pode escolher os arquivos que vai adicionar ao commit e agrupá-los de acordo com a alateração qeu se deseja
+
+COMO OS DIAGRAMAS AJUDAM AVISUALIZAR A ESTRUTURA DE BRANCHES?
+fica fácil ver os commits e seus pais e verificar acessibilidade
+
+QUAL É O RESULTADO DA MESCLAGEM DE DOIS BRANCHES? PORQUE O REPRESENTAMOS NO DIAGRAMA DESSA FORMA?
+é um terceiro commit que tem como pais os últimos commits dos dois branches anteriores
+
+QUAIS SÃO OS PRÓS E CONTRAS DA MESCLAGEM AUTOMÁTICA DO GIT V. SEMPRE FAER MESCLAGENS MANUALMENTE?
+o git não consegue resolver conflitos, pois não tem como conhecer do código
+
+
+
+
